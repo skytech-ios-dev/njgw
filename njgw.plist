@@ -22,7 +22,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://www.nanjing.gov.cn/material/NJGW/file/icon.png</string>
+                        <string>http://www.nanjing.gov.cn/material/NJGW/icon.png</string>
                     </dict>
                     
                     <!-- full-size-image: the large 512×512 icon used by iTunes.  -->
@@ -32,7 +32,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://www.nanjing.gov.cn/material/NJGW/file/itunes-icon.png</string>
+                        <string>http://www.nanjing.gov.cn/material/NJGW/itunes-icon.png</string>
                     </dict>                    
                 </array>
                 <key>metadata</key>
